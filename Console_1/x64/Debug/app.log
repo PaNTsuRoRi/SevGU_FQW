@@ -1,0 +1,5 @@
+﻿  logic.cpp
+  main.cpp
+C:\Users\zesto\Desktop\ДИПЛОМ\App\app\main.cpp(27,17): warning C4244: =: преобразование "unsigned __int64" в "double", возможна потеря данных
+  Создание кода...
+  app.vcxproj -> C:\Users\zesto\Desktop\ДИПЛОМ\App\app\x64\Debug\app.exe
